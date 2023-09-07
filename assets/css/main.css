@@ -2799,6 +2799,62 @@ input, select, textarea {
 	}
 
 /* Features */
+  	.osakako {
+		font-weight: bold;
+	}
+	.image1 {
+		display: flex;
+		/* background-color: yellow; */
+		background-image: url(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F27242C405418221D0B);
+		background-position: center;
+		background-repeat: no-repeat;
+		width: 350px;
+		height: 300px;
+		background-size : cover;
+		margin: auto;
+		transition: all 0.2s linear;
+	}
+
+	.image1:hover {
+		transform: scale(1.4);
+	}
+
+	.md {
+		font-weight: bold;
+	}
+	.image2 {
+		background-image: url(http://www.beautytravelnews.com/PEG/15980990685798.jpg);
+		display: flex;
+		background-position: center;
+		background-repeat: no-repeat;
+		width: 350px;
+		height: 300px;
+		background-size : cover;
+		margin: auto;
+		transition: all 0.2s linear;
+	}
+	.image2:hover {
+		transform: scale(1.4);
+	}
+
+	.sokcho {
+		font-weight: bold;
+	}
+	.image3 {
+		background-image: url(https://mblogthumb-phinf.pstatic.net/MjAyMjAzMTFfMTgw/MDAxNjQ2OTk4MTY4Njkz.jr9Rd2F-UXEXmJ8MAFcyMuFqSl1GIz_tBZwJujdQmREg.DkCnMfPLude3z2f-SX3E1oQ8OKvIJiubGVvb9rKqxWwg.JPEG.nydelphie/SOL_9696-1.jpg?type=w800);
+		display: flex;
+		background-position: center;
+		background-repeat: no-repeat;
+		width: 350px;
+		height: 300px;
+		background-size : cover;
+		margin: auto;
+		transition: all 0.2s linear;
+	}
+	.image3:hover {
+		transform: scale(1.4);
+	}
+
 
 	.features {
 		display: -moz-flex;
